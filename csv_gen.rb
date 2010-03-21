@@ -49,4 +49,5 @@ csvfile.close
 ##
 # to do:
 #
+# commit von meinem Desktop-Rechner aus.
 ##
