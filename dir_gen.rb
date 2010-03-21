@@ -22,3 +22,10 @@ def create_dir(jahr)
 end
 
 create_dir(ARGV)
+
+
+##
+# soweit fertig.
+#
+#
+##
